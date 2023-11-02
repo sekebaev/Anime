@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anime/static/css/main.40ff85c2.css",
+    "main.js": "/Anime/static/js/main.c3391de8.js",
+    "static/media/mai.png": "/Anime/static/media/mai.352890fa78d96e9fe544.png",
+    "static/media/Ellipse 2.png": "/Anime/static/media/Ellipse 2.0649bb9dea35499bf4e3.png",
+    "index.html": "/Anime/index.html",
+    "main.40ff85c2.css.map": "/Anime/static/css/main.40ff85c2.css.map",
+    "main.c3391de8.js.map": "/Anime/static/js/main.c3391de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ff85c2.css",
+    "static/js/main.c3391de8.js"
+  ]
+}
